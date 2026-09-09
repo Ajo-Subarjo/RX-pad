@@ -567,7 +567,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "hackpad.step",
+      "step": "rx-padpcb1.5.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -710,7 +710,7 @@
         "uuid": "22d8b9f8-be1c-41e1-8107-8ea76f2ee119"
       }
     ],
-    "used_designators": "H1-6,#FLG1-3,#PWR1-23,C1,D1-21,SW1-14,U1-2",
+    "used_designators": "H1-6,SW1-14,#FLG1-3,#PWR1-23,D1-21,C1,U1-2",
     "variants": []
   },
   "sheets": [
