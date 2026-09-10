@@ -43,7 +43,7 @@ keyboard.keymap = [
        KC.F3, KC.F4, KC.F5,
        KC.F6, KC.F7, KC.F8
    ]
-   # next update is for blender layer
+   # next update is for blender layer and adding spotify support to play random song from playlist
 ]
 
 
