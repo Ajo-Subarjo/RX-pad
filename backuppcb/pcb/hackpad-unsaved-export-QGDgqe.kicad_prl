@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 3,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -8,12 +8,12 @@
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "images": 0.4000000059604645,
-      "pads": 0.8399999737739563,
-      "shapes": 0.7099999785423279,
+      "images": 0.6,
+      "pads": 1.0,
+      "shapes": 1.0,
       "tracks": 1.0,
-      "vias": 0.6399999856948853,
-      "zones": 0.46000000834465027
+      "vias": 1.0,
+      "zones": 0.6
     },
     "prototype_zone_fills": false,
     "selection_filter": {
@@ -63,34 +63,12 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "hackpad.kicad_prl",
+    "filename": "hackpad-unsaved-export-QGDgqe.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
-    "col_hidden": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "col_order": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
+    "col_hidden": [],
+    "col_order": [],
     "col_widths": [],
     "custom_group_rules": [],
     "expanded_rows": [],
