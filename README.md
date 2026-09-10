@@ -29,7 +29,9 @@ The macropad includes media controls, and soon will adding blender shortcut laye
 ### Pcb
 ![PCB](assetsIMG/pcb.jpg)
 ### Case
-![case](assetsIMG/rx-pad.jpg)
+![case](assetsIMG/case.jpg)
+### overall look
+![all](assetsIMG/rx-pad.jpg)
 
 
 
@@ -48,3 +50,4 @@ The macropad includes media controls, and soon will adding blender shortcut laye
 * 12x SK6812 MINI-E LEDs
 * 4x M3x16mm screws
 * 4x M3x5mx4mm heatset inserts
+* 4 3D printed parts
