@@ -27,7 +27,7 @@ The macropad includes media controls, and soon will adding blender shortcut laye
 ### Schematic
 ![SCHEMATIC](assetsIMG/schematic.png)
 ### Pcb
-![PCB](assetsIMG/pcb.png)
+![PCB](assetsIMG/pcb.jpg)
 ### Case
 ![case](assetsIMG/rx-pad.jpg)
 
