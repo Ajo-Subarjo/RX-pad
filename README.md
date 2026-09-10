@@ -24,10 +24,12 @@ The macropad includes media controls, and soon will adding blender shortcut laye
 * Layer switching with a dedicated key
 * KMK firmware
 
-### Image
+### Schematic
 ![SCHEMATIC](assetsIMG/schematic.png)
+### Pcb
 ![PCB](assetsIMG/pcb.png)
-
+### Case
+![case](assetsIMG/rx-pad.jpg)
 
 
 
