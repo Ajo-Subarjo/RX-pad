@@ -1,0 +1,12 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Exclude from Simulation,Exclude from Position Files,Footprint,Datasheet
+"D1,D2,D3,D4,D5,D6,D7,D8,D9",9,1N4148,,,,,${EXCLUDE_FROM_POS_FILES},Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf
+"D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21",12,SK6812MINI-E,,,,,${EXCLUDE_FROM_POS_FILES},LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount,https://www.lcsc.com/datasheet/C5149201.pdf
+"SW1,SW2,SW4,SW5,SW6,SW7,SW8,SW9",8,SW_Push,,,,,${EXCLUDE_FROM_POS_FILES},Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,
+SW10,1,RotaryEncoder_Switch,,,,,${EXCLUDE_FROM_POS_FILES},Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,
+U1,1,MOUDLE-SEEEDUINO-XIAO,,,,,${EXCLUDE_FROM_POS_FILES},footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM,
+U2,1,ER_OLEDM0.91_1x-I2C,,,,,${EXCLUDE_FROM_POS_FILES},Display:ER_OLEDM0.91_1x-I2C,https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf
+,,,,,,,,,
+,,,,,,,,,
+,4,3D print,,,,,,,
+,1,PCB,,,,,,,
+,8,Keycaps,,,,,,,
