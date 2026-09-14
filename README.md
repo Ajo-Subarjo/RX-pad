@@ -4,6 +4,9 @@ A custom 3×3 macropad built with a seed xiao rp2040 and KMK firmware.
 
 The macropad includes media controls, and soon will adding blender shortcut layer, a rotary encoder for volume control, an OLED display, and RGB LEDs.
 
+
+![BOM](BOM.csv)
+
 ## Features
 
 * 3×3 key matrix  (if the switch in encoder count)
