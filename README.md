@@ -35,9 +35,8 @@ The macropad includes media controls, and soon will adding blender shortcut laye
 ![case](assetsIMG/case.jpg)
 ### Overall look
 ![all](assetsIMG/rx-pad.jpg)
-
 ### Final look
-![all](assetsIMG/irl-pad.jpg)
+![fl](assetsIMG/irl-pad.jpeg)
 
 
 
