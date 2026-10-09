@@ -33,8 +33,11 @@ The macropad includes media controls, and soon will adding blender shortcut laye
 ![PCB](assetsIMG/pcb.jpg)
 ### Case
 ![case](assetsIMG/case.jpg)
-### overall look
+### Overall look
 ![all](assetsIMG/rx-pad.jpg)
+
+### Final look
+![all](assetsIMG/irl-pad.jpg)
 
 
 
